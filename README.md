@@ -13,9 +13,20 @@
 
 ---
 
-## <a name="career-profile"></a> 👤 Career Profile
-Research Oceanographer with extensive experience in satellite data validation, marine ecosystem monitoring, and ocean color radiometry. Specialized in linking biological productivity to fisheries management through integrated survey data.
+## <a name="career-profile"></a> 👤 Satellite Oceanographer with NOAA Fisheries 
+Since 2002 I have worked as a satellite oceanographer for NOAA's SouthWest Fisheries Science Center in Monterey, CA.  The six accomplishments I am most proud of during my more than two decades with NOAA are: 
 
+° Creation of the CoastWatch Satellite Course in 2006, a short 3-4 day course aimed at exposing scientists to environmental satellite data and showing them ways to easily access the data to use in their operational work flows. This course has been taught annually since it was started, and to date > 700 people have taken it.
+
+° Establishment of the PolarWatch node of NOAA’s CoastWatch program, that serves users working with satellite data in polar regions where there are unique needs – users who work in these regions need sea-ice data, which previously hasn’t been part of the suite of satellite products readily available from CoastWatch, and data needs to be made available in projections suitable for high latitudes. 
+
+° Establishment of ShipWatch, NOAA’s CoastWatch program to automatically send daily satellite images to all of the 16 ships that are part of the NOAA fleet. 
+
+° Proposed the installation of hyperspectral radiometers on NOAA’s ships, to routinely collect hyperspectral data whenever the ships are underway which will help make connections between satellite data and in-situ data collected by surveys. We were successful in getting funds in 2024 to purchase 2 DALEC instruments as part of a pilot program. 
+
+° Research done on the North Pacific Chlorophyll Blooms. In 2003 I wrote the first paper about the large anomalous chlorophyll blooms that develop in the Northeast Pacific Ocean almost every summer. I have authored or co-authored around a dozen papers on this subject. One of these papers was written as part of a competition and was the winner of Liquid Robotic’s Pax-X challenge. 
+
+° Advocating for the use of Biogeochemical-Argo (BGC-Argo) data within NOAA Fisheries. I was asked to chair a session on Fisheries during the international “Global Biogeochemical-Argo Fleet: Knowledge to Action Workshop” in May/June 2021.
 ---
 
 ## <a name="education"></a> 🎓 Education
@@ -27,10 +38,9 @@ Research Oceanographer with extensive experience in satellite data validation, m
 ## <a name="experiences"></a> 💼 Previous Work Experience
 **Assistant Research Scientist** | *NASA Goddard Space Flight Center, Greenbelt, MD* | 1999 - 2002 
 
-**InterRidge Coordinator** | *GUniversité Paris 6 Pierre et Marie Curie-Jussieu, Paris, France* | 2014 – 2015
+**InterRidge Coordinator** | *Université Paris 6 Pierre et Marie Curie-Jussieu, Paris, France* | 1997 – 1999
 
 **Oceanograpy Associate** | *Brookhaven National Laboratory, Upton, NY* | 1989 – 1991
-
 
 ---
 
