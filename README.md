@@ -1,6 +1,4 @@
-Here is the clean Markdown code. You can copy this directly into a .md file.
 
-Markdown
 # Cara Wilson, PhD
 **Research Oceanographer** | [cara.wilson@noaa.gov](mailto:cara.wilson@noaa.gov) | [GitHub](https://github.com/CaraWilson)
 
@@ -54,3 +52,15 @@ Research Oceanographer with extensive experience in satellite data validation, m
 * **RV Kilo Moana** (July 29 – Aug 14, 2009): Cruise examining silicon cycling in the North Pacific Subtropical Gyre.
 * **RV Kilo Moana** (July 1 – 22, 2008): Cruise examining silicon cycling in the North Pacific Subtropical Gyre.
 * **RVIB N.B. Palmer** (April 15 – May 10, 1999): Water sampling cruise to locate hydrothermal sites in the Bransfield Strait, Antarctica.
+* **RVIB N.B. Palmer** (Oct 1998): Physical oceanography and mooring deployment, Ross Sea.
+* **RV Senckenberg** (July 24- 27, 1998): ZAPS deployment in the Wadden Sea, Germany.
+* **RV Wecoma** (Dec. 3-8, 1996): ZAPS deployment in the Columbia River estuary.
+* **RV Knorr** (June 26 - Aug 8, 1996): LUSTRE Cruise. AMS-120, ARGO and JASON used to characterize the tectonic and hydrothermal features of the Lucky Strike site on the Mid-Atlantic Ridge.
+* **RV Wecoma** (Apr. 6-16, 1996): GREAT Cruise, Response cruise to study eruption on the Gorda Ridge.
+* **RVIB N.B. Palmer** (Oct. 28 - Dec. 7, 1995): Seabeam and water sampling cruise to detect hydrothermal activity in the Bransfield Strait, Antarctica.
+* **RV Wecoma** (May 28-31, 1995): ZAPS deployment in the Columbia River estuary.
+* **RV Atlantis II** (May 27-June 3, 1993): Lucky Strike Cruise, Submersible survey with ALVIN to locate vent sites on the Lucky Strike seamount in the Mid-Atlantic Ridge.
+* **RV Atlantis II** (Aug. 29-Oct. 20, 1992): FAZAR Cruise, Rock-coring and water sampling cruise along the northern Mid-Atlantic Ridge to examine the relationship between basalt petrology and hydrothermal activity.
+* **RV Endeavor** (Nov. 8-21, 1988): SEEP-II-08 Cruise, Mooring deployments and CTD casts along the continental shelf off of Cape Hatteras.
+<img width="468" height="480" alt="image" src="https://github.com/user-attachments/assets/34183159-5e99-4512-8ba5-9703dfc57bbb" />
+
