@@ -24,15 +24,13 @@ Research Oceanographer with extensive experience in satellite data validation, m
 
 ---
 
-## <a name="experiences"></a> 💼 Professional Experiences
-**Lead Developer / Researcher** | *NOAA* | 2015 – Present
-* Leading integrated West Coast pelagic surveys and managing satellite data streams for fisheries oceanography.
+## <a name="experiences"></a> 💼 Previous Work Experience
+**Assistant Research Scientist** | *NASA Goddard Space Flight Center, Greenbelt, MD* | 1999 - 2002 
 
-**Senior Software Engineer** | *Google, London* | 2014 – 2015
-* Developed large-scale data processing and visualization tools.
+**InterRidge Coordinator** | *GUniversité Paris 6 Pierre et Marie Curie-Jussieu, Paris, France* | 2014 – 2015
 
-**UI Developer** | *Amazon, London* | 2012 – 2014
-* Focused on front-end architecture and data-driven user interfaces.
+**Oceanograpy Associate** | *Brookhaven National Laboratory, Upton, NY* | 1989 – 1991
+
 
 ---
 
